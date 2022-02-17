@@ -37,8 +37,10 @@ Upon hitting the Conﬁgure button, the JavaScript function configureGrammar() i
 
 If properly installed as explained above, the grammar conﬁgurator is loaded with the :fcg system, into the :fcg package.
 
+````
 (ql:quickload :fcg)
 (in-package :fcg)
+````
 
 ### Launching and Configuring
 
