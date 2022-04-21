@@ -1,5 +1,5 @@
 # grammar-configurator
-A library for Fluid Construction Grammar that allows to inspect and modify the configuration of a grammar through FCG's interactive web interface.
+A library for Fluid Construction Grammar that allows to inspect and modify the configuration of a grammar through FCG's interactive web interface. If you have a Babel version of March 2022 or later, the grammar configurator is already part of your installation.
 
 ## Introduction
 
